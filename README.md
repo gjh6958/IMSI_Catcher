@@ -18,4 +18,4 @@ Installation of this project is simple.  Pull the project and move the configura
 Simply run the shell script as a super user.
 
 # Disclaimer
-The contributers of this repository are not responsible for how members of the public use this repository.  RUNNING THIS SCRIPT WITHOUT PROPER PROTECTIONS IS ILLEGAL UNDER FEDERAL U.S. LAW.
+The contributers of this repository are not responsible for how members of the public use this repository.  RUNNING THIS SCRIPT WITHOUT PROPER PROTECTIONS IS ILLEGAL UNDER U.S. FEDERAL LAW.
