@@ -10,6 +10,9 @@ This repository is used to store code and configurationes used to complete a CSE
 - IMSI.py: Runs srsENB and srsEPCs to mimic towers contained within the configuration directorys.
 - config/gen: All possible configurations for all major carriers within the U.S.
 - config/POC: Configuration files used for proof of concept for the project write up
+- generator.py: generates all possible configuration files
+- benb.conf: file needed for generator.py to run
+- bepc.conf: file needed for generator.py to run
 
 # Installation
 Installation of this project is simple.  Pull the project and move the configuration files to your srslte configuration directory.  Change directory declerations within the script as needed to fit your enviornment.  Generation of configuration files to fit your specific enviornment is also recommended.
